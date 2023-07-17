@@ -1,13 +1,15 @@
-text,label
-"Ты пидор.",Toxic
-"You're a faggot.",Toxic
-"Являются ли геи людьми?",Toxic
-"Are Gays Human?",Toxic
-"Я люблю этот фильм.",Non-toxic
-"I love this movie.",Non-toxic
-"Твое подобное поведение недопустимо.",Non-toxic
-"Your kind of behavior is unacceptable.",Non-toxic
-"Сучонок, как ты со мной разговариваешь.",Toxic
-"Bitch, the way you talk to me.",Toxic
-"Демократы самые плохие.",Non-Toxic
-"Democrats are the worst.",Non-Toxic
+text,label1,label2
+"Ты пидор.",toxic,non-sex
+"You're a faggot.",toxic,non-sex
+"Являются ли геи людьми?",toxic,non-sex
+"Are Gays Human?",toxic,non-sex
+"Я люблю этот фильм.",non-toxic,non-sex
+"I love this movie.",non-toxic,non-sex
+"Твое подобное поведение недопустимо.",non-toxic,non-sex
+"Your kind of behavior is unacceptable.",non-toxic,non-sex
+"Сучонок, как ты со мной разговариваешь.",toxic,non-sex
+"Bitch, the way you talk to me.",toxic,non-sex
+"Демократы самые плохие.",non-toxic,non-sex
+"Democrats are the worst.",non-toxic,non-sex
+"Дикое порно",non-toxic,sex
+"Germany girls for everyone",non-toxic,sex
